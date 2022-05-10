@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void fonk(int a()){
-    printf("asd");
+    printf("hello word");
 
 
 }
